@@ -17,3 +17,7 @@ Explanation: 10 and 20 are equally distant multiples from 20. The smallest of th
 
 Expected Time Complexity: O(n).\
 Expected Auxiliary Space: O(1).
+
+**Date : 19/10/2024**\
+Difficulty: Easy\
+Points: 2
