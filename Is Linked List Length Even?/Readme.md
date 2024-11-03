@@ -17,3 +17,10 @@ Examples:
 Expected Time Complexity: O(n)\
 Expected Auxillary Space: O(1)
 
+<hr>
+
+Difficulty: Basic\
+Points: 1\
+Date: 03/11/2024
+
+Solve it here: [Click Here](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1)
